@@ -734,7 +734,7 @@ focuspart.thaumcraft.FROST.text=Throws chilling cold at your target, causing dam
 focuspart.thaumcraft.MAGIC.name=Magic
 focuspart.thaumcraft.MAGIC.text=Conjures raw, unfocused vis that disrupts living (and dead) creatures. This energy cannot interact with inanimate objects, but this does mean that it bypasses mundane armor.
 focuspart.thaumcraft.RIFT.name=Rift
-focuspart.thaumcraft.RIFT.text=Shifts matter into an alternate reality, creating temporary 'holes' throw which you can travel.
+focuspart.thaumcraft.RIFT.text=Shifts matter into an alternate reality, creating temporary 'holes' through which you can travel.
 focuspart.thaumcraft.EXCHANGE.name=Exchange
 focuspart.thaumcraft.EXCHANGE.text=Swap one type of block in the world for another.
 #
